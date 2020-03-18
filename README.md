@@ -2,8 +2,6 @@
 
 # All Of Fabric Lite
 [![Discord Chat](https://img.shields.io/discord/570630340075454474.svg?style=for-the-badge&logo=discord)](https://discord.gg/6rkdm48)
-[![GitHub Releases](https://img.shields.io/github/downloads/AllOfFabric/AOF-Lite/total?style=for-the-badge&logo=github)](https://github.com/AllOfFabric/AOF-Lite/releases/)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.15.2-00c155.svg?style=for-the-badge&logo=mojang)](https://minecraft.net/)
 
 ### Downloads
 **Client**\
