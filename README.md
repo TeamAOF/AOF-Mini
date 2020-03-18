@@ -6,14 +6,14 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.15.2-00c155.svg?style=for-the-badge&logo=mojang)](https://minecraft.net/)
 
 ### Downloads
-#### Client
+**Client**\
 https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-1.0.0.zip
 
-#### Server 
+**Server**\
 https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-Server-1.0.0.zip
 
 ### Installation
-#### Client
+**Client**
 1. Download MultiMC at https://multimc.org/
 1. Log into your Minecraft account
 1. Download the modpack
@@ -21,7 +21,7 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-Server-
 1. Click `Import from ZIP` and choose the modpack you have downloaded
 1. Now you can play by double-clicking on the instance
 
-#### Server
+**Server**
 1. Install Fabric server as described at https://fabricmc.net/use/
 1. Download the modpack
 1. Extract its files into the server directory
