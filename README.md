@@ -5,10 +5,10 @@
 
 ### Downloads
 **Client**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-1.0.0.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.0/AOF-Lite-1.1.0.zip
 
 **Server**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-Server-1.0.0.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.0/AOF-Lite-Server-1.1.0.zip
 
 ### Installation
 **Client**
@@ -28,7 +28,7 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.0.0/AOF-Lite-Server-
 ### Mods
 - [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-- [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
+- [Blockus](https://www.curseforge.com/minecraft/mc-mods/blockus)
 - [Conveyance](https://www.curseforge.com/minecraft/mc-mods/conveyance)
 - [Cotton](https://www.curseforge.com/minecraft/mc-mods/cotton)
 - [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
