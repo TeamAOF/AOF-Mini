@@ -27,6 +27,7 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.0/AOF-Lite-Server-
 
 ### Mods
 - [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)
+- [Anvil Fix](https://www.curseforge.com/minecraft/mc-mods/anvil-fix)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [Blockus](https://www.curseforge.com/minecraft/mc-mods/blockus)
 - [Conveyance](https://www.curseforge.com/minecraft/mc-mods/conveyance)
@@ -37,6 +38,7 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.0/AOF-Lite-Server-
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
+- [Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/infinity-fix)
 - [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 - [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
@@ -44,7 +46,9 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.0/AOF-Lite-Server-
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborn-core)
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources)
 - [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Terrestria](https://www.curseforge.com/minecraft/mc-mods/terrestria)
 - [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)
 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
+- [YNet](https://www.curseforge.com/minecraft/mc-mods/ynet)
