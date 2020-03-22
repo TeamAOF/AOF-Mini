@@ -6,10 +6,10 @@
 
 ### Downloads
 **Client**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.2/AOF-Lite-1.1.2.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.3/AOF-Lite-1.1.3.zip
 
 **Server**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.2/AOF-Lite-Server-1.1.2.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.3/AOF-Lite-Server-1.1.3.zip
 
 ### Installation
 **Client**
@@ -40,9 +40,11 @@ https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.2/AOF-Lite-Server-
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/infinity-fix)
-- [Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/leaf-decay)
+- [Leaf Me Alone](https://www.curseforge.com/minecraft/mc-mods/leaf-me-alone)
+- [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 - [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 - [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborn-core)
