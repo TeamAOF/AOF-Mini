@@ -2,6 +2,7 @@
 
 # All Of Fabric Lite
 [![Discord Chat](https://img.shields.io/discord/570630340075454474.svg?style=for-the-badge&logo=discord)](https://discord.gg/6rkdm48)
+![Server at aoflite.yoosk.pl](https://img.shields.io/badge/Server-aoflite.yoosk.pl-green?style=for-the-badge)
 
 ### Downloads
 **Client**\
