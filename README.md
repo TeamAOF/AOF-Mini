@@ -5,10 +5,10 @@
 
 ### Downloads
 **Client**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.1/AOF-Lite-1.1.1.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.2/AOF-Lite-1.1.2.zip
 
 **Server**\
-https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.1/AOF-Lite-Server-1.1.1.zip
+https://github.com/AllOfFabric/AOF-Lite/releases/download/1.1.2/AOF-Lite-Server-1.1.2.zip
 
 ### Installation
 **Client**
