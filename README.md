@@ -1,4 +1,4 @@
-<img src="AOF_Mini.png" align="right" width="180px"/>
+<img src="AOF_Mini.png" align="right" width="160px"/>
 
 # All Of Fabric Mini
 [![Discord Chat](https://img.shields.io/discord/570630340075454474.svg?style=for-the-badge&logo=discord)](https://discord.gg/6rkdm48)
@@ -6,10 +6,10 @@
 
 ### Downloads
 **Client**\
-https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.4/AOF-Mini-1.1.4.zip
+https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-1.1.5.zip
 
 **Server**\
-https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.4/AOF-Mini-Server-1.1.4.zip
+https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-Server-1.1.5.zip
 
 ### Installation
 **Client**
