@@ -1,0 +1,51 @@
+_specver: 2
+
+modpack:
+  name: All of Fabric Mini
+  description: Minimalistic no-QoL modpack for Fabric
+
+install:
+  mcVersion: 1.15.2
+  loaderVersion: 0.5.2.39
+  installerUrl: https://maven.fabricmc.net/net/fabricmc/fabric-installer/{{@loaderversion@}}/fabric-installer-{{@loaderversion@}}.jar
+  installerArguments:
+   - "server"
+   - "-downloadMinecraft"
+  modpackUrl: https://github.com/AllOfFabric/AOF-Mini/releases/latest/download/server.zip
+  modpackFormat: curse
+  baseInstallPath: ~
+  ignoreFiles:
+    - mods/optifine*.jar
+    - resources/**
+  additionalFiles:
+  localFiles: ~
+  checkFolder: yes
+  installLoader: yes
+
+launch:
+  spongefix: no
+  ramDisk: no
+  checkOffline: no
+  maxRam: 5G
+  autoRestart: yes
+  crashLimit: 10
+  crashTimer: 60min
+  preJavaArgs: ~
+  startFile: fabric-server-launch.jar
+  forcedJavaPath: ~
+  javaArgs:
+    - "-d64"
+    - "-server"
+    - "-XX:+AggressiveOpts"
+    - "-XX:ParallelGCThreads=4"
+    - "-XX:+UseConcMarkSweepGC"
+    - "-XX:+UnlockExperimentalVMOptions"
+    - "-XX:+UseParNewGC"
+    - "-XX:+ExplicitGCInvokesConcurrent"
+    - "-XX:MaxGCPauseMillis=10"
+    - "-XX:GCPauseIntervalMillis=50"
+    - "-XX:+UseFastAccessorMethods"
+    - "-XX:+OptimizeStringConcat"
+    - "-XX:NewSize=84m"
+    - "-XX:+UseAdaptiveGCBoundary"
+    - "-XX:NewRatio=3"

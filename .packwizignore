@@ -1,6 +1,8 @@
 .git/**
 .gitignore
+server/**
 export.zip
+server.zip
 packwiz
 packwiz.exe
 LICENSE
