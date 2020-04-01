@@ -2,6 +2,7 @@
 .gitignore
 server/**
 export.zip
+client.zip
 server.zip
 packwiz
 packwiz.exe
