@@ -1,0 +1,14 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2888/347/dynamic-fps-1.1.1.jar"
+hash-format = "murmur2"
+hash = "870486359"
+
+[update]
+[update.curseforge]
+file-id = 2888347
+project-id = 335493
+release-channel = "beta"

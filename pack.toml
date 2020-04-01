@@ -1,0 +1,10 @@
+name = "AOF Mini"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23de28fc6809e3cde911aa45ce401b8bf8fb3d3bd491181134b704603a51a0f9"
+
+[versions]
+forge = "1.15.2-31.1.34"
+minecraft = "1.15.2"

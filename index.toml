@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "bfe96fa4ba1d6c62098f25fb928557439faeeb5680f9f4bac843d5ceb3fb10ee"
+metafile = true
+
+[[files]]
+file = "mods/anvil-fix.toml"
+hash = "5430ac94e1c0d179d33011c3c07bc61727d7f94bbca974a3e18eff5d9de910bc"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "83a5f42c80698c2a5d729d40f5cbcac72e269f97f3b6379b32e9305fe05992d6"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "54881f349cb5ac5d2be63fea3441e096f67a8146a2d2eb7899c8082db143caf8"
+metafile = true
+
+[[files]]
+file = "mods/conveyance.toml"
+hash = "7003c661cfadbcacc0129a0bdb186228d2c49a8cbe86f7edee63d815c7922207"
+metafile = true
+
+[[files]]
+file = "mods/cotton.toml"
+hash = "3402d285fc7328a978bef251e0397423636a73d67d30d0c1801075591768d256"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "f9f1c436a4977905ff50f3ea5deabcfb889d3c428a418ab8d5213f59421356bf"
+metafile = true
+
+[[files]]
+file = "mods/epicurean.toml"
+hash = "bee056ec980ad0e95868fca065e24796162ac48ea221e5a44fa0163b327b6224"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "9a02fd6d30a667f2064e80dbb2d356ef5c8c6595916433d2d31b39858cc5e637"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "2a4a11416cd82ee318e8288e0dbcca06fb25032466b5567e2c452262bfe08561"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "ddfa1ece8d07a2107082b95021a94618a15c320b8eb924e23166d0f0bd0f71e2"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.toml"
+hash = "9ec2b6250d455b9ec99878733c43b66b760bbeaf254fa5f1eea4d74df469c15b"
+metafile = true
+
+[[files]]
+file = "mods/infinity-fix.toml"
+hash = "6db8f727fc1c61413ca22c848e91a5f03e831a8779c91620c2758f7936f80057"
+metafile = true
+
+[[files]]
+file = "mods/jumploader.toml"
+hash = "e5354a04e3d304443e36c94f99feaf17f92aee0dbaaffd09c91a4b504ada57db"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "b1363ca49b070c0716556191e800edebbff5f6f0cb11fb753f91775818a89449"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "4eddfca23a17a531712ad2a35ba25d9bd9a038c780b3d75b596cacd36595c482"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "53c933e661c45dfd71e591199d23a7e44d9298e887d570524ebeb627697626fc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "dc4127f44dede8687e5faad5b4b029b9c023a5d5751581d87fc0dc8352a5aebe"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "fea9995114bc4d6fbedd6ea4360b2e718d1fba35d7fa28713f6d60be32fb37f3"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-fabric.toml"
+hash = "4ba1faedc6a4238e7babb1444d3b6974649ee795e415daf7108be242fb7fd000"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.toml"
+hash = "9d78414e48769f5ec88b98e798aab8fb15954c4ded97287dba10fb5ae1f95ebf"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "64d39a7ffde072c16b95a297e35bee6b7d1da2a169d88f3cba06622eb7467346"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "0ce58550297760bf7018b5f6ae96f55b01a64f953ff5a4a0aab51baeceb7ed90"
+metafile = true
+
+[[files]]
+file = "mods/sleepvote.toml"
+hash = "59de5334b9a87752ad3a16c00a431700aa37b5e7d41b4512d3aca743a095d7e0"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "c2da8ef155c253fccd03b39f1d94bfd9424798247d91f3937b1c1a3a2cd2a149"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.toml"
+hash = "64df28be99691a7c28b0b44eb2150c6f83da3149d0b5b2cc517d601c4ea921cf"
+metafile = true
+
+[[files]]
+file = "mods/traverse.toml"
+hash = "d85f9bb855bfc2bceb70f6aaed57eea3a73bfb7c050708721cef0b6db618db37"
+metafile = true
+
+[[files]]
+file = "mods/trees-do-not-float.toml"
+hash = "dee2e9b38fc9f9023524a373ca9af425a941d129dd8501d262d673a32d00f8c1"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.toml"
+hash = "d0b9f4a44b13595cbf321c09130294d574a0347ef8fcff0c23e317ab9f206288"
+metafile = true
+
+[[files]]
+file = "mods/ynet.toml"
+hash = "bf95a0c74727e355798059193e20d150de875af88b4bde43d5bcf97e25d260d6"
+metafile = true

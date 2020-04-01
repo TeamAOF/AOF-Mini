@@ -1,0 +1,14 @@
+name = "Terrestria (Fabric)"
+filename = "terrestria-1.2.1+build.29.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2883/825/terrestria-1.2.1+build.29.jar"
+hash-format = "murmur2"
+hash = "1278689014"
+
+[update]
+[update.curseforge]
+file-id = 2883825
+project-id = 323974
+release-channel = "beta"

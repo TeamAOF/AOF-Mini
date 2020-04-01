@@ -1,0 +1,14 @@
+name = "Tech Reborn"
+filename = "TechReborn-1.15-3.3.6+build.205.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2915/300/TechReborn-1.15-3.3.6+build.205.jar"
+hash-format = "murmur2"
+hash = "1171875788"
+
+[update]
+[update.curseforge]
+file-id = 2915300
+project-id = 233564
+release-channel = "beta"

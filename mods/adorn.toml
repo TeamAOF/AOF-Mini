@@ -1,0 +1,14 @@
+name = "Adorn"
+filename = "Adorn-1.8.1+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2915/627/Adorn-1.8.1+1.15.2.jar"
+hash-format = "murmur2"
+hash = "1362878355"
+
+[update]
+[update.curseforge]
+file-id = 2915627
+project-id = 320215
+release-channel = "beta"

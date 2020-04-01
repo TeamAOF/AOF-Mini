@@ -1,0 +1,14 @@
+name = "SleepVote"
+filename = "sleepvote-1.5+1.15.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/2913/136/sleepvote-1.5+1.15.2.jar"
+hash-format = "murmur2"
+hash = "255929390"
+
+[update]
+[update.curseforge]
+file-id = 2913136
+project-id = 355570
+release-channel = "beta"

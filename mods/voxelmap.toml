@@ -1,0 +1,14 @@
+name = "VoxelMap"
+filename = "fabricmod_VoxelMap-1.9.16_for_1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2917/135/fabricmod_VoxelMap-1.9.16_for_1.15.2.jar"
+hash-format = "murmur2"
+hash = "314855945"
+
+[update]
+[update.curseforge]
+file-id = 2917135
+project-id = 225179
+release-channel = "beta"

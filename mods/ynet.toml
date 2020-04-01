@@ -1,0 +1,14 @@
+name = "YNet"
+filename = "ynet-0.1.6+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2917/881/ynet-0.1.6+1.15.2.jar"
+hash-format = "murmur2"
+hash = "11758793"
+
+[update]
+[update.curseforge]
+file-id = 2917881
+project-id = 367376
+release-channel = "beta"

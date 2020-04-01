@@ -1,0 +1,14 @@
+name = "Jumploader"
+filename = "jumploader-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2884/404/jumploader-1.0.5.jar"
+hash-format = "murmur2"
+hash = "156835070"
+
+[update]
+[update.curseforge]
+file-id = 2884404
+project-id = 361988
+release-channel = "beta"

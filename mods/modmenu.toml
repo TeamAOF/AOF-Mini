@@ -1,0 +1,14 @@
+name = "Mod Menu (Fabric)"
+filename = "modmenu-1.10.2+build.32.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2902/148/modmenu-1.10.2+build.32.jar"
+hash-format = "murmur2"
+hash = "442909277"
+
+[update]
+[update.curseforge]
+file-id = 2902148
+project-id = 308702
+release-channel = "beta"

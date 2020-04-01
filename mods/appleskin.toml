@@ -1,0 +1,14 @@
+name = "AppleSkin"
+filename = "appleskin-mc1.15-fabric-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2840/652/appleskin-mc1.15-fabric-1.0.8.jar"
+hash-format = "murmur2"
+hash = "220452184"
+
+[update]
+[update.curseforge]
+file-id = 2840652
+project-id = 248787
+release-channel = "beta"

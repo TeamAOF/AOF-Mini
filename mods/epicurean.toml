@@ -1,0 +1,14 @@
+name = "Epicurean"
+filename = "epicurean-2.2.4+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2879/182/epicurean-2.2.4+1.15.2.jar"
+hash-format = "murmur2"
+hash = "1312109007"
+
+[update]
+[update.curseforge]
+file-id = 2879182
+project-id = 313159
+release-channel = "beta"

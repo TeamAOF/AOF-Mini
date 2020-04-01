@@ -1,0 +1,14 @@
+name = "Conveyance"
+filename = "conveyance-0.3.3+1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2866/943/conveyance-0.3.3+1.15.2.jar"
+hash-format = "murmur2"
+hash = "12602107"
+
+[update]
+[update.curseforge]
+file-id = 2866943
+project-id = 355432
+release-channel = "beta"

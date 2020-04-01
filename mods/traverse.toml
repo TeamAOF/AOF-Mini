@@ -1,0 +1,14 @@
+name = "Traverse (Fabric)"
+filename = "traverse-2.1.11+build.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2891/645/traverse-2.1.11+build.23.jar"
+hash-format = "murmur2"
+hash = "921609285"
+
+[update]
+[update.curseforge]
+file-id = 2891645
+project-id = 308777
+release-channel = "beta"
