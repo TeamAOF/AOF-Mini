@@ -11,8 +11,16 @@ install:
   installerArguments:
    - "server"
    - "-downloadMinecraft"
-  modpackUrl: https://github.com/AllOfFabric/AOF-Mini/releases/latest/download/server.zip
+  modpackUrl: https://github.com/AllOfFabric/AOF-Mini/releases/latest/download/client.zip
   modpackFormat: curse
+  formatSpecific:
+    ignoreProject:
+      - 335493 # Dynamic FPS
+      - 361988 # Jumploader
+      - 325492 # Light Overlay
+      - 308702 # ModMenu
+      - 317514 # Mouse Wheelie
+      - 225179 # VoxelMap
   baseInstallPath: ~
   ignoreFiles:
     - mods/optifine*.jar

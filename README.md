@@ -5,26 +5,30 @@
 ![Server at aofmini.yoosk.pl](https://img.shields.io/badge/Server-aofmini.yoosk.pl-green?style=for-the-badge)
 
 ### Downloads
+**CurseForge**\
+https://www.curseforge.com/minecraft/modpacks/all-of-fabric-mini
+
 **Client**\
-https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-1.1.5.zip
+https://github.com/AllOfFabric/AOF-Mini/releases/latest/download/client.zip
 
 **Server**\
-https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-Server-1.1.5.zip
+https://github.com/AllOfFabric/AOF-Mini/releases/latest/download/server.zip
 
 ### Installation
-**Client**
-1. Download MultiMC at https://multimc.org/
-1. Log into your Minecraft account
+**Client with Twitch**
+1. Use the Twitch app to get the modpack
+1. Play it as usual, Fabric installation is handled automatically
+
+**Client with MultiMC**
 1. Download the modpack
-1. Click `Add Instance` in MultiMC
-1. Click `Import from ZIP` and choose the modpack you have downloaded
-1. Now you can play by double-clicking on the instance
+1. Import it in MultiMC
+1. Open `Edit Instance` > `Version`
+1. Remove `net.minecraftforge` entry and install Fabric
+1. Play it as usual
 
 **Server**
-1. Install Fabric server as described at https://fabricmc.net/use/
 1. Download the modpack
-1. Extract its files into the server directory
-1. Now you can launch your new modded server
+1. Use [ServerStarter](https://github.com/Yoosk/ServerStarter)
 
 ### Mods
 - [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn)
@@ -40,7 +44,6 @@ https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-Server-
 - [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 - [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Infinity Fix](https://www.curseforge.com/minecraft/mc-mods/infinity-fix)
-- [Leaf Me Alone](https://www.curseforge.com/minecraft/mc-mods/leaf-me-alone)
 - [LibGamerule](https://www.curseforge.com/minecraft/mc-mods/libgamerule)
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
@@ -55,5 +58,6 @@ https://github.com/AllOfFabric/AOF-Mini/releases/download/1.1.5/AOF-Mini-Server-
 - [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Terrestria](https://www.curseforge.com/minecraft/mc-mods/terrestria)
 - [Traverse](https://www.curseforge.com/minecraft/mc-mods/traverse)
+- [Trees Do Not Float](https://www.curseforge.com/minecraft/mc-mods/trees-do-not-float)
 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 - [YNet](https://www.curseforge.com/minecraft/mc-mods/ynet)
